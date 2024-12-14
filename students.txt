@@ -143,7 +143,7 @@
         "id": 206,
         "name": "Amay Bhaskar",
         "age": 23,
-        "grade": "B-",
+        "grade": "C",
         "subjects": [
             "English",
             "Science"
