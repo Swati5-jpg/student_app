@@ -118,5 +118,15 @@
             "Maths",
             "English"
         ]
+    },
+    {
+        "id": 203,
+        "name": "Manyata Vyas",
+        "age": 23,
+        "grade": "A+",
+        "subjects": [
+            "English",
+            "History"
+        ]
     }
 ]
