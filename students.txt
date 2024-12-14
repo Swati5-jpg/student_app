@@ -138,5 +138,15 @@
             "Maths",
             "Science"
         ]
+    },
+    {
+        "id": 206,
+        "name": "Amay Bhaskar",
+        "age": 23,
+        "grade": "B-",
+        "subjects": [
+            "English",
+            "Science"
+        ]
     }
 ]
