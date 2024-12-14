@@ -5,8 +5,8 @@ name: Student Database application
 
 on:
   push:
-    branches: 
-      - Main
+    branches: [ "main", "dev" ]
+      
  
 
 
