@@ -108,5 +108,15 @@
             "Science",
             "History"
         ]
+    },
+    {
+        "id": 202,
+        "name": "Anvita Pareek",
+        "age": 21,
+        "grade": "B",
+        "subjects": [
+            "Maths",
+            "English"
+        ]
     }
 ]
