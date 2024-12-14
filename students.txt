@@ -128,5 +128,15 @@
             "English",
             "History"
         ]
+    },
+    {
+        "id": 204,
+        "name": "Amit kaushal",
+        "age": 22,
+        "grade": "B+",
+        "subjects": [
+            "Maths",
+            "Science"
+        ]
     }
 ]
