@@ -148,15 +148,5 @@
             "English",
             "Science"
         ]
-    },
-    {
-        "id": 205,
-        "name": "Deepika malik",
-        "age": 22,
-        "grade": "B-",
-        "subjects": [
-            "English",
-            "History"
-        ]
     }
 ]
