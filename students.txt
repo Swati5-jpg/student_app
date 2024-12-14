@@ -1,0 +1,102 @@
+[
+    {
+        "id": 101,
+        "name": "Aarav Singh",
+        "age": 18,
+        "grade": "A",
+        "subjects": [
+            "Math",
+            "Physics"
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Saanvi Kapoor",
+        "age": 19,
+        "grade": "B",
+        "subjects": [
+            "English",
+            "History"
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Vihaan Sharma",
+        "age": 20,
+        "grade": "A-",
+        "subjects": [
+            "Chemistry",
+            "Biology"
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Ishita Reddy",
+        "age": 21,
+        "grade": "B+",
+        "subjects": [
+            "Geography",
+            "History"
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Advit Gupta",
+        "age": 22,
+        "grade": "A+",
+        "subjects": [
+            "Computer Science",
+            "Physics"
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Kiara Iyer",
+        "age": 23,
+        "grade": "B",
+        "subjects": [
+            "Math",
+            "Economics"
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Reyansh Patel",
+        "age": 20,
+        "grade": "A",
+        "subjects": [
+            "Chemistry",
+            "Math"
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Mira Deshmukh",
+        "age": 18,
+        "grade": "B+",
+        "subjects": [
+            "English",
+            "Biology"
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Arjun Rao",
+        "age": 21,
+        "grade": "A-",
+        "subjects": [
+            "Physics",
+            "Economics"
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Tara Verma",
+        "age": 22,
+        "grade": "A",
+        "subjects": [
+            "Computer Science",
+            "Math"
+        ]
+    }
+]
